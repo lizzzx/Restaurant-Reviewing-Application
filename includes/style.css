@@ -1,0 +1,71 @@
+h1{
+    padding: 5px;
+  font-family: "Montserrat-Black";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+body {
+  font-family: "Montserrat";
+  text-align: center;
+  font-size: 1.8rem;
+  color: #46494c;
+  margin: 8px 0;
+}
+
+.demo_line_01{
+    padding: 30px 50px 30px;
+    margin: 50px 0;
+    line-height: 1px;
+    border-left: 200px solid #ddd;
+    border-right: 200px solid #ddd;
+    text-align: center;
+}
+
+.userpage{
+  font-family: "Montserrat";
+  text-align: left;
+  font-size: 1.8rem;
+  color: #46494c;
+  margin: 8px 40px;
+
+}
+
+.mainbox{
+  border: 2px solid #f07167;
+  line-height:3;
+  border-radius: 4px;
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input[type=text],input[type=number],input[type=password] {
+  line-height:1.8rem;
+  margin: 1rem;
+
+}
+
+input[type=submit] {
+  background-color: #46494c;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-decoration: none;
+  font-size: 1rem;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius:15px;
+}
+
+ .fa-utensils{
+   margin-top: 2rem;
+ }
+
+ .surprise{
+   color:#f07167;
+   text-align: center;
+   font-size: 2.3rem;
+ }
